@@ -1,0 +1,41 @@
+Goals for the new WebUI
+
+Mission
+
+The mission of this project is to create a new modern WebUI for WhiteCore-Sim that ensures the following:
+
+1. Uses a framework that is moduler in nature to handle the growing needs of the end user's grid needs.
+
+2. Uses the modern coding methods to ensure stability, speed, and less bugs.
+
+3. Remains opensource for all to use.
+
+4. Establishes a more organized and professional look.
+
+5. Ensures it is end user friendly.
+
+
+Features
+
+The features included in this WebUI for WhiteCore-Sim are the following:
+
+1. New User Registration System
+
+2. User Password Recovery System
+
+3. Grid Administration System
+
+4. Marketplace System
+
+5. Intergrated Forum System
+
+6. Integrated Blogging System (Great for grid news and grid status blog)
+
+7. Integrated bug reporting system
+
+8. Integrated Wiki system
+
+NOTE: The login system will allow the user to utilize all the parts of the site without having to login for each system.  Grid operators and admins will have the ability to go to their admin panel as well.
+
+
+
