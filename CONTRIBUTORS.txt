@@ -18,4 +18,4 @@ Kevin Whitman (@Keverw)
 Alan Johnston (velus)
 
 If your name is not listed here and should be, please contact us via the
-GitHub project: https://github.com/aurora-sim/Aurora-WebUI
+GitHub project: https://github.com/emperorstarfinder/WhiteCore--WebUI
